@@ -1,6 +1,6 @@
 {
   "name": "OpenCV",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "summary": "OpenCV (Computer Vision) for iOS.",
   "homepage": "http://opencv.org",
   "description": "OpenCV: open source computer vision library\n\n    Homepage: http://opencv.org\n    Online docs: http://docs.opencv.org\n    Q&A forum: http://answers.opencv.org\n    Dev zone: http://code.opencv.org",
@@ -10,7 +10,7 @@
   },
   "authors": "opencv.org",
   "source": {
-    "http": "http://download.sourceforge.net/project/opencvlibrary/opencv-ios/3.0.0/opencv2.framework.zip"
+    "http": "http://download.sourceforge.net/project/opencvlibrary/opencv-ios/3.1.0/opencv2.framework.zip"
   },
   "platforms": {
     "ios": "4.0"
